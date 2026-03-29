@@ -1,7 +1,7 @@
 
 import React, { useContext, useEffect, useState } from "react";
 import { motion } from "framer-motion";
-import { Button } from "../../../../newTns/src/components/ui";
+import { Button } from "../component/Button";
 import { X } from "lucide-react";
 import { MyContext } from "../context/MyContext";
 
